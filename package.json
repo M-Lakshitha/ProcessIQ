@@ -7,8 +7,5 @@
     "build": "npm --prefix frontend run build",
     "lint": "npm --prefix frontend run lint",
     "test": "pytest backend/tests"
-  },
-  "workspaces": [
-    "frontend"
-  ]
+  }
 }
